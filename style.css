@@ -1,0 +1,48 @@
+.heading{
+    color: PaleVioletRed;
+    font-family: American Typewriter;
+    font-size: 26px;
+    box-shadow: black;
+}
+body{
+    background-size: cover;
+}
+.speed{
+    float: left;
+}
+.speed_img{
+    width: 250px;
+    border-radius: 100px;
+}
+.speedcc{
+    color: cornflowerblue;
+    font-family: American Typewriter;
+    box-shadow: black;
+    font-size: 20;
+}
+.volume{
+    float: right;
+}
+.volume_img{
+    width: 250px;
+    border-radius: 100px;
+}
+.volumecc{
+    color: cornflowerblue;
+    font-family: American Typewriter;
+    box-shadow: black;
+    font-size: 20;
+}
+.play1{
+    color:azure ;
+    font-family: American Typewriter;
+    font-size: 20px;
+    box-shadow: black;
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 50px;
+}
+canvas{
+    border: 5px CadetBlue solid;
+    box-shadow: black;
+}
